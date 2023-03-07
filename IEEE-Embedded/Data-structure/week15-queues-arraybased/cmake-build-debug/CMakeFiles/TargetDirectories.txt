@@ -1,3 +1,0 @@
-E:/c.projercts/IEEE-Embedded/Data-structure/week15-queues-arraybased/cmake-build-debug/CMakeFiles/week15_queues.dir
-E:/c.projercts/IEEE-Embedded/Data-structure/week15-queues-arraybased/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/c.projercts/IEEE-Embedded/Data-structure/week15-queues-arraybased/cmake-build-debug/CMakeFiles/rebuild_cache.dir
