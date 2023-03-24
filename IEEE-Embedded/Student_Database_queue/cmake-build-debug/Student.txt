@@ -1,0 +1,5 @@
+1 Marco Magdy 3.5 1 2 3 4 5
+2 pavly Salah 3.80 12 37 29 63
+3 Bolis karam 3.5 45 21 55 18 46
+4 Kerlos Gamal 3.9 20 100 50 35 77
+
